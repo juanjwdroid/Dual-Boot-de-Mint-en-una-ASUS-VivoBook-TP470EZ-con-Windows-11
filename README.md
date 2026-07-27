@@ -1,7 +1,7 @@
 # Dual boot Linux Mint 22 + Windows 11 en ASUS VivoBook TP470EZ (soluciones a posibles problemas críticos)
 
 
-Buenas, soy Juan. Argentino de 23 años viviendo en Capital e introduciéndome en este mundito.
+Buenas, soy Juan. Argentino de 23 años viviendo en Capital e introduciéndome en este espacio el cuál me sirvió para diversas cosas, este vez publicando más que especteando.
 
 Paso a dejar una breve documentación técnica del proceso completo de instalación de Linux Mint 22 en paralelo con Windows 11 para usuarios de Vivabook de la marca ASUS, incluyendo el diagnóstico y resolución de tres bloqueos críticos: cifrado BitLocker activo, controlador Intel VMD habilitado, y fallo en la instalación del gestor de arranque GRUB. Quizás a alguien que posee alguna notebook de esta marca pueda presentar algunos de los problemas que les voy a mostrar acá así que les sirve, genial.
 
